@@ -1,19 +1,23 @@
 :root {
   --accent-color: #FF8DCB;
+  --title-color: #FFC2E6;
+  --title-shadow-clr: #FF8DCB;
   --bg-color: #FFF1F7;
   --text-color: #353430;
-  --text-decor-color: #353430;
-  --text-content-color: #353430;
-  --title-color: #FFC2E6;
-  --accent-hover-color: #353430;
-  --button-hover-br: rbg(50, 49, 45 / .4);
-  --social-decoration-color: #FFF1F7;
-  --decorative-color:  #353430;
-  --color-menu: #FF8DCB;
-  --focus-color: #353430;
-  --accent-main-font: 'IBM Plex mono', sans-serif;
-  --accent-heading-fs-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  --accent-heading-fs-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  --text-button-clr: #353430;
+  --border-button-color: #353430;
+  --shadow-link-clr: #FF8DCB;
+  --focus-link-clr: #353430;
+  --focus-underline-color: #353430;
+  --hover-border-clr: rgb (255, 0, 112 / .4);
+  --hover-link-clr: #353430;
+  --background-border-clr: #353430;
+  --rec-color:#FFF1F7;
+  --heving-color: #353430;
+  --content-heving-clr: #353430;
+  --accent-main-font: 'IBM Plex mono', monospace;
+  --accent-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --accent-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --color-image: url(../images/cover-image-light.png);
 }
 
