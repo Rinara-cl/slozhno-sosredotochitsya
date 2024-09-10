@@ -1,4 +1,4 @@
-:root.theme-light {
+.page.theme-light {
   --accent-color: #FF8DCB;
   --title-color: #FFC2E6;
   --title-shadow-clr: #FF8DCB;
@@ -7,9 +7,9 @@
   --text-button-clr: #353430;
   --border-button-color: #353430;
   --shadow-link-clr: #FF8DCB;
-  --focus-border-clr: #353430;
+  --focus-link-clr: #353430;
   --focus-underline-color: #353430;
-  --hover-border-clr: rgb (255, 0, 112 / .4);
+  --hover-border-clr: #32312d66;
   --hover-link-clr: #353430;
   --background-border-clr: #353430;
   --rec-color:#FFF1F7;

@@ -7,9 +7,9 @@
   --text-button-clr: #FF0070;
   --border-button-color: #FF0070;
   --shadow-link-clr: #FF0070;
-  --focus-border-clr: #F1B2CE;
+  --focus-link-clr: #F1B2CE;   
   --focus-underline-color: #FF0070;
-  --hover-border-clr: rgb (45, 50, 46 / .4);
+  --hover-border-clr: #FF007066;
   --hover-link-clr: #F1B2CE;
   --background-border-clr: #FF0070;
   --rec-color: #FF0070;
@@ -28,9 +28,9 @@
   --text-button-clr: #FF0070;
   --border-button-color: #FF0070;
   --shadow-link-clr: #FF0070;
-  --focus-border-clr: #F1B2CE;
+  --focus-link-clr: #F1B2CE;
   --focus-underline-color: #FF0070;
-  --hover-border-clr: rgb (45, 50, 46 / .4);
+  --hover-border-clr: #FF007066;
   --hover-link-clr: #F1B2CE;
   --background-border-clr: #FF0070;
   --rec-color: #FF0070;
